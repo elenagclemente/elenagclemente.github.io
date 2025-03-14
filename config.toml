@@ -1,0 +1,72 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Elena Giulia Clemente'
+
+theme = 'soho'
+
+summarylength = 10
+enableEmoji = true
+
+[params]
+author = "Elena Giulia Clemente"
+description = "PhD Student @UZH"
+
+## Set one of:
+# gravatar = "elena.clemente@econ.uzh.ch"
+profilePicture = "images/profilepic3.jpg"
+
+copyright = "Elena Giulia Clemente"
+license = "CC BY-SA 4.0"
+licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+builtWith = true
+favicon = true
+
+## Set custom theme color.
+themeColor = " #B5D275"
+# other colors: #A3D9A1 #B5D275 #A8D8B9 #A5C865  #66cccc #abdbe3 #76b5c5 
+
+## Set custom CSS and/or JS to override site defaults.
+customCss = ["css/blog.css"]
+customJs = ["js/blog.js"]
+
+  ## Set as many as you want.
+  [[params.socialIcons]]
+  icon = "fa-linkedin"
+  title = "Linkedin"
+  url = "#"
+
+  [[params.socialIcons]]
+  icon = "fa-github"
+  title = "GitHub"
+  url = "#"
+
+  [[params.socialIcons]]
+  icon = "fa-twitter"
+  title = "Twitter"
+  url = "#"
+
+[menu]
+
+  [[menu.main]]
+  name = "Research"
+  identifier = "Research"
+  weight = 300
+  url = "/about/"
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
+[markup]
+
+  [markup.highlight]
+  codeFences = true
+  guessSyntax = false
+  hl_Lines = ""
+  lineNoStart = 1
+  lineNos = false
+  lineNumbersInTable = true
+  noClasses = true # if false, you need to provide you own custom CSS
+  style = "monokai"
+  tabWidth = 4
