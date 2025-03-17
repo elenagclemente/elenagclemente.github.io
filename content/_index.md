@@ -6,7 +6,6 @@ title = 'Home'
 
 # Welcome!
 
-
 I am a PhD student in Economics at the University of Zurich. 
 
 Website coming soon. 
