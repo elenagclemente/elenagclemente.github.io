@@ -7,6 +7,10 @@ theme = 'soho'
 summarylength = 10
 enableEmoji = true
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+    
 [params]
 author = "Elena Giulia Clemente"
 description = "PhD Student @UZH"
