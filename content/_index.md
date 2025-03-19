@@ -8,4 +8,5 @@ title = 'Home'
 
 I am a PhD student in Economics at the University of Zurich. 
 
-Website coming soon. 
+I'm working on my website. In the meantime, here's a photo of me doing girlmaths. 
+![Girlmaths](/images/girlmaths.jpg)

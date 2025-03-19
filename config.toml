@@ -26,7 +26,7 @@ builtWith = true
 favicon = true
 
 ## Set custom theme color.
-themeColor = " #B5D275"
+themeColor = " #A3D9A1"
 # other colors: #A3D9A1 #B5D275 #A8D8B9 #A5C865  #66cccc #abdbe3 #76b5c5 
 
 ## Set custom CSS and/or JS to override site defaults.
@@ -47,6 +47,11 @@ customJs = ["js/blog.js"]
   [[params.socialIcons]]
   icon = "fa-twitter"
   title = "Twitter"
+  url = "#"
+
+  [[params.socialIcons]]
+  icon = "fa-twitter"
+  title = "Mail"
   url = "#"
 
 [menu]
