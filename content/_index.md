@@ -8,5 +8,6 @@ title = 'Home'
 
 I am a PhD student in Economics at the University of Zurich. 
 
-I'm working on my website. In the meantime, here's a photo of me doing girlmath. 
-![Girlmaths](/images/girlmaths.jpg)
+I hold a Bachelor's in Economics and Finance from Bocconi University and a Master's in Economics from the Stockholm School of Economics. Before joining the PhD, I was a Pre-Doctoral Research Analyst at the Swedish House of Finance, working on household finance with Prof. Paolo Sodini and Anastasia Girshina. 
+
+I'm currently working on my website. If you'd like to get in touch, shoot me an email at elena.clemente@econ.uzh.ch! :) 

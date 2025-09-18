@@ -14,6 +14,7 @@ enableEmoji = true
 [params]
 author = "Elena Giulia Clemente"
 description = "PhD Student @UZH"
+custom_css = ["static/css/custom.css"]
 
 ## Set one of:
 # gravatar = "elena.clemente@econ.uzh.ch"
@@ -37,22 +38,18 @@ customJs = ["js/blog.js"]
   [[params.socialIcons]]
   icon = "fa-linkedin"
   title = "Linkedin"
-  url = "#"
+  url = "https://www.linkedin.com/in/elenagclemente/"
 
-  [[params.socialIcons]]
-  icon = "fa-github"
-  title = "GitHub"
-  url = "#"
+#  [[params.socialIcons]]
+#  icon = "fa-github"
+#  title = "GitHub"
+#  url = "#"
 
   [[params.socialIcons]]
   icon = "fa-twitter"
   title = "Twitter"
-  url = "#"
+  url = "https://x.com/Elenagclemente"
 
-  [[params.socialIcons]]
-  icon = "fa-twitter"
-  title = "Mail"
-  url = "#"
 
 [menu]
 

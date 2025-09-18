@@ -1,0 +1,10 @@
+.homepage-content{
+  min-height:70vh;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+  text-align:center;
+  padding:2rem 1rem;
+}
+.homepage-content h1{ margin-bottom:2rem; }
